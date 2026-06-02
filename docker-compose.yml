@@ -1,0 +1,19 @@
+services:
+  api:
+    build: ./incident-analysis-api
+    ports:
+      - "3000:3000"
+    volumes:
+      - api-data:/app
+    environment:
+      - PORT=3000
+
+  app:
+    build: ./incident-analysis-app
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+
+volumes:
+  api-data:

@@ -1,0 +1,1035 @@
+
+> incident-analysis-api@0.0.1 test
+> jest src/reports/reports.service.spec.ts
+
+  console.log
+    [DEBUG_LOG] word: injury, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: true, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: true, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: chemical leak, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, negated: true
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: true, negated: true
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: true, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, negated: true
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: true, negated: true
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, negated: true
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, negated: true
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: true, negated: true
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, negated: true
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injury, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: injured, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: leak, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: evacuation, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: emergency, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: smoke, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: fire, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: failure, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: malfunction, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: damage, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: collision, found: false, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, negated: true
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazards, found: true, negated: true
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, found: true, negated: false
+
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+
+  console.log
+    [DEBUG_LOG] word: hazard, negated: false
+
+      at isNegated (reports/reports.service.ts:136:15)
+          at Array.some (<anonymous>)
+
+FAIL src/reports/reports.service.spec.ts
+  ReportsService
+    ✓ should be defined (6 ms)
+    create
+      ✓ should create and save a report (4 ms)
+    findAll
+      ✓ should return all reports (1 ms)
+    findOne
+      ✓ should return a report by ID (2 ms)
+      ✓ should throw NotFoundException if report not found (8 ms)
+    performAnalysis
+      ✓ should detect negative sentiment and high severity for injury (16 ms)
+      ✓ should detect critical severity for chemical leak and evacuation (3 ms)
+      ✓ should detect positive sentiment when resolved (6 ms)
+      ✓ should extract multiple equipment IDs and times (7 ms)
+      ✓ should return neutral and low for plain text (6 ms)
+      negated danger terms
+        ✕ should handle "No hazards were found" (7 ms)
+        ✓ should handle "No injuries were reported" (4 ms)
+        ✓ should handle "No damage occurred" (7 ms)
+        ✓ should handle "No smoke was observed" (5 ms)
+        ✕ should correctly analyze the specific user example (6 ms)
+
+  ● ReportsService › performAnalysis › negated danger terms › should handle "No hazards were found"
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "POSITIVE"
+    Received: "NEGATIVE"
+
+      128 |         const text = 'No hazards were found during the walk-through.';
+      129 |         const result = (service as any).performAnalysis(text);
+    > 130 |         expect(result.sentiment).toBe('POSITIVE');
+          |                                  ^
+      131 |         expect(result.severity).toBe('LOW');
+      132 |       });
+      133 |
+
+      at Object.<anonymous> (reports/reports.service.spec.ts:130:34)
+
+  ● ReportsService › performAnalysis › negated danger terms › should correctly analyze the specific user example
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "POSITIVE"
+    Received: "NEGATIVE"
+
+      158 |         const result = (service as any).performAnalysis(text);
+      159 |
+    > 160 |         expect(result.sentiment).toBe('POSITIVE');
+          |                                  ^
+      161 |         expect(result.severity).toBe('LOW');
+      162 |         expect(result.entities).toContain('AX-42');
+      163 |         expect(result.entities).toContain('Production Line');
+
+      at Object.<anonymous> (reports/reports.service.spec.ts:160:34)
+
+Test Suites: 1 failed, 1 total
+Tests:       2 failed, 13 passed, 15 total
+Snapshots:   0 total
+Time:        0.483 s, estimated 1 s
+Ran all test suites matching src/reports/reports.service.spec.ts.
+Jest did not exit one second after the test run has completed.
+
+'This usually means that there are asynchronous operations that weren't stopped in your tests. Consider running Jest with `--detectOpenHandles` to troubleshoot this issue.
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: injury, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: injured, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: leak, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: evacuation, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: emergency, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: smoke, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: fire, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: failure, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: malfunction, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: damage, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: collision, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: hazards, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
+
+  ●  Cannot log after tests are done. Did you forget to wait for something async in your test?
+    Attempted to log "[DEBUG_LOG] word: hazard, found: false, negated: false".
+
+      141 |       const found = lowerText.includes(word);
+      142 |       const negated = found && isNegated(word, lowerText);
+    > 143 |       console.log(`[DEBUG_LOG] word: ${word}, found: ${found}, negated: ${negated}`);
+          |               ^
+      144 |       return found && !negated;
+      145 |     });
+      146 |     const hasPositive =
+
+      at console.log (../node_modules/@jest/console/build/index.js:311:10)
+      at reports/reports.service.ts:143:15
+          at Array.some (<anonymous>)
+      at ReportsService.performAnalysis (reports/reports.service.ts:140:39)
+      at Timeout._onTimeout (reports/reports.service.ts:66:37)
+
